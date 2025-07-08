@@ -9,10 +9,6 @@ We are using **EfficientNetV2B0** (a transfer learning model) to classify differ
 - Lab-Manual.pdf: PDF with project instructions.
 - colab-screenshot.png: Proof of Colab run.
 
-##  Week 1 Progress
-- Attended all the lectures of internship
-- Read and went through all the documents of the internship
-- Ran the original notebook on Google Colab.
-- Created a new notebook to work from scratch
-- Started working on data loading and initial model setup.
-- Uploaded lab manual and notebook in this repository.
+## FINAL MODEL DEPLOYED
+
+https://huggingface.co/spaces/Sanasheikh/e-waste-classification
